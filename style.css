@@ -125,7 +125,7 @@ button {
 .result {
   background: #ff9500;
   color: white;
-  grid-column: span 2;
+  grid-column: span 1;
 }
 
 .clear {
